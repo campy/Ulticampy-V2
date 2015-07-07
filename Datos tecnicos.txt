@@ -1,0 +1,66 @@
+Separacion en panel entre varillas de 8mm eje X e Y (18.5mm)
+
+Tecnica:
+
+Separacion carro central 8.5mm
+Datos optimos carros centrales 13.5mm (Separacion)
+------------------------------------------------
+
+Tornilleria:
+
+35 - 3x16 avellanados (Estrustura)
+35 - Tuercas 3mm
+8 - 3 X 12 Normales (carros eje X)
+8 - 3 X 30 Normales (Carros eje Y)
+4 - Tuercas 3mm
+8 - 3 X 30 Normales (Motores Eje X e Y)
+4 - 4 x 10 Normales (Fuente de alimentacion)
+2 - 3 x 12 avellanados (soporte c14 220v)
+2 - tuercas 3mm
+4 - 3 x 18 (soportes varillas z)
+4 - Tuercas 3mm
+3 - 3 x 30 (sporte ramps)
+3 - Tuercas 3mm
+3 - Tuercas 3mm
+8 - Tornillos 3 X 10 (Pantalla LCD)
+3 - Tornillos 3 x 12 (soporte LCD)
+3 - Tornillos 3 X 35 (soporte empuje filamento)
+1 - Tornillos 3 X 20 (rodamientos 623xx)
+1 - Tuerca 3mm
+2 - Tornillos 3 X 12 (presilla estrusor)
+2 - Tonrillos 3 X 16 (ventilador de capa)
+2 - Tornillos 3 X 18 (ventilador de capa tras)
+4 - Tuerca 3mm
+2 - Tuerca 3mm
+2 - Tornillos 3 X 30 (presion filamento)
+2 - Arandelas
+2 - Muelles cortos (8mm largo)
+
+----------------
+Base de impresión
+
+6 - 3 X 18 Avellanados
+6 - Tuercas 3mm
+4 - 3 x 16 Normal
+4 - Tuercas autblocantes 3mm
+4 - Arandelas 3mm
+8 - 3 x 10 Normales
+8 - Tuercas 3mm
+4 - 3 X 18 Normales 
+4 - Tuercas		
+
+
+-----------------------------
+Arandelas 
+8 -  3mm Planas 
+
+-----------------------------------
+
+
+Varillas:
+8mm Eje X 367 mm
+8mm Eje Y 378 mm
+6mm 4 x 330mm
+12mm 2 x 345mm
+
+
